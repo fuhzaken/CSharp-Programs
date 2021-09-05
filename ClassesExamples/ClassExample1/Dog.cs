@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
+    @author: xMinatwoah
+    @date: September 05, 2021
+    @description: Classes -> private fields, properties,
+    constructor, methods, ToString example.
+ */
 namespace CSharpUsingClass
 {
     class Dog
