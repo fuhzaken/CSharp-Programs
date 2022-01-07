@@ -6,8 +6,8 @@ namespace Classes1
     {
         public static void Main(string[] args)
         {
-            // Practice: Classes, Polymorphism, and Inheritance
-            // Author: @kentzyzxc/fuhzaken
+            // Practice: Classes, Encapsulation, Polymorphism, and Inheritance
+        // Author: @kentzyzxc/fuhzaken
 
             // Objects creation
             Cat cat = new Cat("Juju", "Sphinx");
