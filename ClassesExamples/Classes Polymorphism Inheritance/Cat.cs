@@ -3,7 +3,7 @@ namespace Classes1
 {
     public class Cat : Animal
     {
-        // Practice: Classes, Polymorphism, and Inheritance
+        // Practice: Classes, Encapsulation, Polymorphism, and Inheritance
         // Author: @kentzyzxc/fuhzaken
 
         public Cat() : base()
