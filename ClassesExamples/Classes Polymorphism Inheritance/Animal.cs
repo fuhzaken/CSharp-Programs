@@ -3,6 +3,9 @@ namespace Classes1
 {
     public class Animal
     {
+        // Practice: Classes, Encapsulation, Polymorphism, and Inheritance
+        // Author: @kentzyzxc/fuhzaken
+        
         private string name;
         private string breed;
 
